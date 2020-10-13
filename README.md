@@ -83,6 +83,8 @@ http://localhost:8081
 
 Podremos observar el pipeline el cual esta con un crontab de ejecución  0 0 1 * *, este indica que se ejecutará los dias primero de cada mes, el desarrollo esta adaptado para tomar el mes previo para realizar el ETL y agregar la nyeva información de la base de datos.
 
+![Pipeline sobre airflow](https://github.com/AlejandroAl/etl_airflow_python/blob/main/imagenes/scheduler_pipeline.png)
+
 EL pipeline esta diseñado con 5 pasos:
 
 El primero es para crear nuestra base de datos **venta_tortas**.
@@ -99,6 +101,8 @@ El paso 5 es el encargado de ejecutar los siguientes pasos:
 
 NOTA: El desarrollo de este pipeline esta simulado para ejecutar 4 tareeas simulando los meses de enero, febrero, marzo y abril.
 
+ ![Pipeline completed](https://github.com/AlejandroAl/etl_airflow_python/blob/main/imagenes/dag_airflow_completed.png) 
+
 
 Al finalizar el pipeline nos podremos conectar con un visualizador de base de datos utilizando los siguiente atributos:
 
@@ -107,6 +111,8 @@ user: airflow
 password: airflow
 host: localhost
 port: 5432
+
+![Data base ventas_tortas](https://github.com/AlejandroAl/etl_airflow_python/blob/main/imagenes/database.png) 
 
 Al finalizar de realizar la revisión es necesario bajar los servicios con el siguiente comando:
 
