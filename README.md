@@ -119,3 +119,12 @@ Al finalizar de realizar la revisión es necesario bajar los servicios con el si
 ```
 docker-compose down -v
 ```
+
+
+## Diagrama de solución
+
+![Diagrama de solución](https://github.com/AlejandroAl/etl_airflow_python/blob/main/imagenes/DiagramaSolucionTortasInc-Page-1.jpg) 
+
+## Diagrama Relacional 
+
+![Diagrama relacional](https://github.com/AlejandroAl/etl_airflow_python/blob/main/imagenes/DiagramaSolucionTortasInc_ER.jpg) 
