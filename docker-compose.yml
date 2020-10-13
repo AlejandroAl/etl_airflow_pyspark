@@ -1,0 +1,109 @@
+version: '3.7'
+services:
+    redis:
+        image: 'redis:5.0.5'
+        command: redis-server --requirepass redispass
+
+    postgres:
+        image: postgres:9.6
+        ports:
+            - "5432:5432"
+        environment:
+            - POSTGRES_USER=airflow
+            - POSTGRES_PASSWORD=airflow
+            - POSTGRES_DB=airflow
+        external_links:
+            - postgres
+
+    webserver:
+        build: .
+        depends_on:
+            - postgres
+            - redis
+        environment:
+            - LOAD_EX=n
+            - FERNET_KEY=46BKJoQYlPPOexq0OhDZnIlNepKFf87WFwLbfzqDDho=
+            - EXECUTOR=Celery
+            - POSTGRES_USER=airflow
+            - POSTGRES_PASSWORD=airflow
+            - POSTGRES_DB=airflow
+            - REDIS_PASSWORD=redispass
+            - VENTAS_ERP_DIR=/usr/local/airflow/dags/src/data/tamales_inc
+            - PATH_TEINVENTO=/usr/local/airflow/dags/src/data/teinvento_inc
+            - PATH_METRICAS=/usr/local/airflow/dags
+            - PATH_DIM_PRODUCTO=/usr/local/airflow/dags/src/data/product_dim
+            - PATH_DIM_REGION=/usr/local/airflow/dags/src/data/region_dim
+            - USUARIO_POSTGRES=airflow
+            - CONTRASENA_POSTGRES=airflow
+            - NOMBRE_BASEDATOS_POSTGRES=ventas_tortas
+            - HOST_POSTGRES=postgres
+        volumes:
+            - ./mnt/airflow/dags:/usr/local/airflow/dags
+            - ./mnt/airflow/airflow.cfg:/usr/local/airflow/airflow.cfg
+            - ./mnt/airflow/:/usr/local/airflow/
+            
+        ports:
+            - "8081:8080"
+        command: webserver
+        healthcheck:
+            test: ["CMD-SHELL", "[ -f /usr/local/airflow/airflow-webserver.pid ]"]
+            interval: 30s
+            timeout: 30s
+            retries: 3
+
+    flower:
+        image: puckel/docker-airflow:1.10.4
+        restart: always
+        depends_on:
+            - redis
+        environment:
+            - EXECUTOR=Celery
+            - REDIS_PASSWORD=redispass
+        ports:
+            - "5555:5555"
+        command: flower
+        external_links:
+            - flower
+    scheduler:
+        build: .
+        depends_on:
+            - webserver
+        volumes:
+            - ./mnt/airflow/dags:/usr/local/airflow/dags
+            - ./mnt/airflow/airflow.cfg:/usr/local/airflow/airflow.cfg    
+            - ./mnt/airflow/:/usr/local/airflow/        
+        environment:
+            - LOAD_EX=n
+            - FERNET_KEY=46BKJoQYlPPOexq0OhDZnIlNepKFf87WFwLbfzqDDho=
+            - EXECUTOR=Celery
+            - POSTGRES_USER=airflow
+            - POSTGRES_PASSWORD=airflow
+            - POSTGRES_DB=airflow
+            - REDIS_PASSWORD=redispass
+        command: scheduler
+
+    worker:
+        build: .
+        depends_on:
+            - scheduler
+        volumes:
+            - ./mnt/airflow/dags:/usr/local/airflow/dags
+            - ./mnt/airflow/:/usr/local/airflow/
+            - ./mnt/airflow/airflow.cfg:/usr/local/airflow/airflow.cfg    
+        environment:
+            - FERNET_KEY=46BKJoQYlPPOexq0OhDZnIlNepKFf87WFwLbfzqDDho=
+            - EXECUTOR=Celery
+            - POSTGRES_USER=airflow
+            - POSTGRES_PASSWORD=airflow
+            - POSTGRES_DB=airflow
+            - REDIS_PASSWORD=redispass
+            - VENTAS_ERP_DIR=/usr/local/airflow/dags/src/data/tamales_inc
+            - PATH_TEINVENTO=/usr/local/airflow/dags/src/data/teinvento_inc
+            - PATH_METRICAS=/usr/local/airflow/dags
+            - PATH_DIM_PRODUCTO=/usr/local/airflow/dags/src/data/product_dim
+            - PATH_DIM_REGION=/usr/local/airflow/dags/src/data/region_dim
+            - USUARIO_POSTGRES=airflow
+            - CONTRASENA_POSTGRES=airflow
+            - NOMBRE_BASEDATOS_POSTGRES=ventas_tortas
+            - HOST_POSTGRES=postgres
+        command: worker

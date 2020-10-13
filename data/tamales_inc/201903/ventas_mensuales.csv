@@ -1,0 +1,499 @@
+anio,mes,lugar_venta,tamanio,sabor,origen,codigo_por_sabor,producto,total_venta
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,21389.12001
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,1029.174642
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-2.484474
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,685.478971
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,4294.46944
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,28.981495000000002
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,4901.020979999999
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-256.125448
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,-46.506721
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,-103.68164399999999
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,2273.29992
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,0.0
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,6883.915003
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,1.42e-14
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-1.95e-13
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,104.395206
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,23611.16718
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-1.15e-13
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,1.66e-13
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,2.47e-14
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-2.98e-14
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,14.692445999999999
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-9.753553
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,42224.30218
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,466.00910999999996
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-24.557551999999998
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,0.76134
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,16533.52419
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,3783.454973
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,1533.103674
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,7.368302000000001
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,5465.596356
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,1915.1464620000002
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,93.805717
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,24781.46904
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,127070.1842
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,10706.98998
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,0.496654
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,6900.280062999999
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-33.288902
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,1.6864830000000002
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,693.30735
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,103130.0776
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-48.76262
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,4349.706736
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,2668.721105
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,19651.19496
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,27373.562660000003
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,298137.7891
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,6546.319335
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,7273.3366510000005
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,-8.67e-14
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-109.741922
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,7.13e-14
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,-7.114241000000001
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,14837.35949
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,4992.604046
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,234393.2271
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,71065.03721000001
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,-1.53e-13
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,0.0
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,11013.20189
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-121.153903
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,1.8600000000000002e-13
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,-7.92e-14
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,5.17e-14
+2019,Mar,Mexico,Regular,Cajeta,Norte,ABYT055818,Atole mix,1.633293
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,120265.6984
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,2240.615698
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,2.07e-15
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,-36.468351
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,40148.41284
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,171310.9179
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,0.0
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,11.242678999999999
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,-5.86e-14
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,2184.853596
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,1.33e-14
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,2708.5878780000003
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,200042.9042
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,26.759757
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-91.32478
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,13479.115259999999
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,61354.59398
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,-39.931653000000004
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,4.55e-14
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,1046.143503
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,2.2399999999999998e-13
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,1.31e-13
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,101401.0898
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-5.61e-15
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,27935.967630000003
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-1.237749
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,5.19e-14
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-7.782533
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,489.900824
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,0.271656
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,0.719599
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,1.23e-13
+2019,Mar,Mexico,Regular,Cajeta,Norte,ABYT055818,Atole mix,1724.848877
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,60593.5425
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-102.38866999999999
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,295920.3092
+2019,Mar,Mexico,Regular,Verde,Norte,206054370,Tamal mix,1.190433
+2019,Mar,Mexico,Regular,Verde,Norte,206054370,Tamal mix,-4.44e-16
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,-2.32e-14
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,4734.0608
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,5375.2718
+2019,Mar,Mexico,Regular,Cajeta,Norte,ABYT055818,Atole mix,-8.310000000000001e-16
+2019,Mar,Mexico,Regular,Verde,Norte,206054370,Tamal mix,38.739012
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,24451.21396
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,1.04e-12
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,-143.31909299999998
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,2.97e-13
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-3.901021
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,9.38e-16
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,-2.78e-17
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,5.03e-14
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-65.46837099999999
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-78.341451
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,24.955752
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,2593.48305
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,-0.176047
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,1213.631435
+2019,Mar,Mexico,Regular,Cajeta,Norte,ABYT055818,Atole mix,23.10678
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,36274.56193
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,13730.360859999999
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-2.2500000000000003e-13
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,1137.284561
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-16.147553
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-33.225623999999996
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,8550.740949
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-0.06252200000000001
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,-3.830832
+2019,Mar,Mexico,Regular,Verde,Norte,206054370,Tamal mix,146.150847
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,437.216346
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,8033.191040000001
+2019,Mar,Mexico,Regular,Mole,Norte,206051447,Tamal mix,1597.7458980000001
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,13.971235
+2019,Mar,Mexico,Regular,Arroz,Norte,ABYT057271,Atole mix,37501.68544
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,42.2684
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,-1.35e-14
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,16082.368569999999
+2019,Mar,Mexico,Regular,Dulce,Norte,206050084,Tamal mix,19985.03487
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,0.0
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,2.3399999999999998e-15
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,4e-14
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-1.03e-16
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,14293.1327
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,1.22e-14
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,2384.113937
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,1156.0407400000001
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,4.31e-17
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,784.7935620000001
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,2829.34281
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-3.38e-14
+2019,Mar,Mexico,Regular,Cajeta,E. Privados,ABYT055818,Atole mix,197.710441
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,8.3e-14
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-2.5e-16
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,1246.688705
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,4079.310422
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,1.4400000000000002e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,13975.518109999999
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-1.4e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,1446.747212
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-2.44e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,166.254949
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,8.899999999999999e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-7.26e-14
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,61820.705129999995
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,10866.782959999999
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,40291.29623
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-8.899999999999999e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,8596.903084
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,162.6273
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,924.4098
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,2191.1936
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,1.972551
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,534.246226
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-1.59e-14
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,1781.9595379999998
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-7.85e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-2.5e-14
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,2357.255099
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,68.78668499999999
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,1.27e-12
+2019,Mar,Mexico,Regular,Mole,E. Privados,206051447,Tamal mix,-1.8100000000000002e-15
+2019,Mar,Mexico,Regular,Mole,E. Privados,206051447,Tamal mix,-6.38e-14
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,9.060000000000001e-16
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,9.23e-15
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,1491.371458
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,2.79e-14
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,13.737229999999998
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,3.77e-15
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-2.93e-15
+2019,Mar,Mexico,Regular,Verde,E. Privados,206054370,Tamal mix,1184.897052
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,2.2200000000000001e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,5.229999999999999e-15
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,9.75e-14
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-1.92e-16
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-2.16e-12
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,1547.0271
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-2.33e-13
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,9.58e-16
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,4964.520420000001
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,9.06e-12
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,1437.477691
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-7.55e-14
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,25.32141
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,1.65e-12
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-3.77e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-6.55e-13
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,686.016465
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,2.05e-12
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,1918.9752629999998
+2019,Mar,Mexico,Regular,Mole,E. Privados,206051447,Tamal mix,546.186042
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,2.3199999999999997e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,1048.8060050000001
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,4058.052982
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-1.01e-14
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-5.88e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-4.14e-14
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,25224.72441
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,7342.026514
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-5.16e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,0.0
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,2.042734
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-1.06e-13
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,4.226841
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-2.85e-14
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,3368.2982920000004
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,0.248327
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,5627.334318
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,2.11e-15
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-5.63e-14
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,2.7600000000000004e-13
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,172.418934
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-1.54e-14
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,3.1899999999999998e-15
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,1727.72085
+2019,Mar,Mexico,Regular,Verde,E. Privados,206054370,Tamal mix,-2.58e-14
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-2.1699999999999998e-15
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,3799.749947
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,99.329849
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,315.604352
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-9.620000000000001e-15
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,8367.207305
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-9.1e-15
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,293.377863
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,2.38e-14
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,4.579062
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,21261.87312
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,17308.56553
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,50878.48512
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,1.06e-12
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,1.39e-17
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,18723.33735
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-1.03e-12
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-4.0299999999999995e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,11498.69554
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,326.312048
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-3.4e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,120504.5666
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-1.61e-12
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,18124.341
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,7.890000000000001e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,5.28e-12
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,27546.5792
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,100563.2158
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,4790.030349000001
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,2.3199999999999997e-13
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,2414.223152
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,2.11e-15
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-7.14e-14
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,0.0
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,25720.84675
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,77.069565
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,3340.3020079999997
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,2448.547456
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,8019.212268000001
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-4.3000000000000004e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,5.55e-14
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,133.848415
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-6.24e-12
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,6.840000000000001e-12
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,19528.353
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,1480.626821
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,3322.641041
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,2462.13663
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,11251.84808
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,164.84676000000002
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,4833.950952
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,2102.1489239999996
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,5.072208
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,5.38e-14
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,2278.837948
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,192.32121999999998
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,1251.681224
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,1227.015936
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,0.0
+2019,Mar,Mexico,Regular,Cajeta,E. Privados,ABYT055818,Atole mix,121.83110500000001
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,3677.6701840000005
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,19349.30241
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,8.690000000000001e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,1.88e-15
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,53592.82185
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,47017.25474
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,2e-13
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,3.16e-15
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,7.19e-15
+2019,Mar,Mexico,Regular,Mole,E. Privados,206051447,Tamal mix,3884.46596
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,0.0
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,3.73e-14
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,539.9049219999999
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,3.33e-16
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-8.870000000000001e-15
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,29.85248
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,4.07e-15
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,19126.08275
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-1.7100000000000002e-12
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-1.42e-16
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-4.75e-15
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,3448.3110829999996
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,11004.54033
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,1.0900000000000001e-11
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,10395.699340000001
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,60011.82895
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,3.5499999999999995e-13
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,1.690736
+2019,Mar,Mexico,Regular,Cajeta,E. Privados,ABYT055818,Atole mix,-1.24e-15
+2019,Mar,Mexico,Regular,Cajeta,E. Privados,ABYT055818,Atole mix,-2.56e-15
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,131.031316
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,1189.855035
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,1.06e-13
+2019,Mar,Mexico,Regular,Mole,E. Privados,206051447,Tamal mix,7189.854840000001
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,34679.99267
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,8.710000000000001e-16
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,6.71e-14
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,133.145586
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-5.19e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,3189.15078
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,148370.0138
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,1701.912769
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,3.5299999999999996e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-2.04e-13
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-1.08e-12
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-1.25e-16
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-9.86e-14
+2019,Mar,Mexico,Regular,Mole,E. Privados,206051447,Tamal mix,2.1e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,13188.18149
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,18261.85088
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,2.35e-14
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,146.30148
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-1.4e-14
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,3175.51885
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-3.11e-15
+2019,Mar,Mexico,Regular,Cajeta,E. Privados,ABYT055818,Atole mix,0.5635760000000001
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,3.46e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,7.27e-15
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,3109.193152
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,12768.440779999999
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,3729.123642
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,1.6899999999999999e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,19789.31129
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,28663.9988
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-2.28e-12
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,3034.166632
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-5.64e-14
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,2.7300000000000005e-13
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,5095.455620000001
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,178.848201
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-1.57e-14
+2019,Mar,Mexico,Regular,Arroz,E. Privados,ABYT057271,Atole mix,-4.98e-15
+2019,Mar,Mexico,Regular,Cajeta,E. Privados,ABYT055818,Atole mix,-7.550000000000001e-17
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,1.3800000000000002e-13
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,0.0
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,36705.667219999996
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,-5.979999999999999e-17
+2019,Mar,Mexico,Regular,Dulce,E. Privados,206050084,Tamal mix,65735.81568
+2019,Mar,Mexico,Regular,Verde,Centro,206054370,Tamal mix,8676.093572
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,7.27e-14
+2019,Mar,Mexico,Regular,Cajeta,Centro,ABYT055818,Atole mix,-2.1e-14
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,9.33e-15
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,-1.62e-14
+2019,Mar,Mexico,Regular,Cajeta,Centro,ABYT055818,Atole mix,5873.6169119999995
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,9.969999999999999e-13
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,5.62e-14
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,6500.351565999999
+2019,Mar,Mexico,Regular,Verde,Centro,206054370,Tamal mix,6.32e-14
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,31.518144
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,-7.39e-14
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,4.16e-12
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,17462.13275
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,-4.73e-12
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,1.9600000000000002e-13
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,1028337.4
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,3.83e-12
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,17896.17011
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,7.33e-15
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,-9.259999999999999e-12
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,20104.59234
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,19155.144369999998
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,-1.1099999999999999e-15
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,442909.4083
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,4.57e-13
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,-9.279999999999999e-13
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,168805.872
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,1855.5827600000002
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,2.22e-16
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,1.1199999999999999e-15
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,43698.99513
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,76.08312
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,661.8491740000001
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,40352.58477
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,9666.431848
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,3.52e-13
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,431.1379519999999
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,194253.8156
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,24173.23934
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,324.93852999999996
+2019,Mar,Mexico,Regular,Arroz,Centro,ABYT057271,Atole mix,5.99e-13
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,1.59e-12
+2019,Mar,Mexico,Regular,Mole,Sur,206051447,Tamal mix,11594.541140000001
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,101753.5528
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,-2.2799999999999998e-11
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,0.0
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,508784.0376
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,233237.418
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,6.98e-14
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,2028.8832
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,7.7e-12
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,-1.2199999999999999e-11
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,4211.345572
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,-9.95e-14
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,2028.8832
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,79245.32467999999
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,121.943757
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,2.536104
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,5760.131661
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,385698.89
+2019,Mar,Mexico,Regular,Verde,Sur,206054370,Tamal mix,192.371424
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,5768.319087
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,18032.02389
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,5939.415027
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,54386.87702000001
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,5.93e-13
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,0.0
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,84945.35044
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,0.0
+2019,Mar,Mexico,Regular,Mole,Sur,206051447,Tamal mix,3.2599999999999994e-12
+2019,Mar,Mexico,Regular,Cajeta,Sur,ABYT055818,Atole mix,-1.2500000000000001e-12
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,1.35e-13
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,19999.04243
+2019,Mar,Mexico,Regular,Mole,Sur,206051447,Tamal mix,1.96e-11
+2019,Mar,Mexico,Regular,Cajeta,Sur,ABYT055818,Atole mix,4737.776825999999
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,49032.41359
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,-3.2199999999999997e-10
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,2.11e-13
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,5.809999999999999e-12
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,99000.28143999999
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,2.7899999999999997e-13
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,8.47e-13
+2019,Mar,Mexico,Regular,Mole,Sur,206051447,Tamal mix,30159.91948
+2019,Mar,Mexico,Regular,Mole,Sur,206051447,Tamal mix,-9.350000000000002e-13
+2019,Mar,Mexico,Regular,Mole,Sur,206051447,Tamal mix,-4.620000000000001e-13
+2019,Mar,Mexico,Regular,Mole,Sur,206051447,Tamal mix,124226.8276
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,8.53e-14
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,-6.409999999999999e-13
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,4.97e-14
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,610.152198
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,2.96e-14
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,-3.29e-11
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,-8.25e-11
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,54142.61249
+2019,Mar,Mexico,Regular,Verde,Sur,206054370,Tamal mix,3.41e-15
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,6628.905614
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,38199.180980000005
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,1.19e-11
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,-1.96e-12
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,28810.410839999997
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,1433.522959
+2019,Mar,Mexico,Regular,Mole,Sur,206051447,Tamal mix,43015.857260000004
+2019,Mar,Mexico,Regular,Mole,Sur,206051447,Tamal mix,23228.49608
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,582393.6003
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,-3.83e-12
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,-3.41e-12
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,-2.66e-12
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,5579.4288
+2019,Mar,Mexico,Regular,Mole,Sur,206051447,Tamal mix,6.16e-14
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,2.33e-11
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,-1.72e-15
+2019,Mar,Mexico,Regular,Arroz,Sur,ABYT057271,Atole mix,12173.2992
+2019,Mar,Mexico,Regular,Mole,Sur,206051447,Tamal mix,142812.2431
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,105613.5858
+2019,Mar,Mexico,Regular,Mole,Sur,206051447,Tamal mix,-1.67e-12
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,45688.73289
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,-7.67e-12
+2019,Mar,Mexico,Regular,Dulce,Sur,206050084,Tamal mix,1366494.575
